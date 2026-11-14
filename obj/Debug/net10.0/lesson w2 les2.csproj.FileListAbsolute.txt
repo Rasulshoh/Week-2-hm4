@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\lesson w2 les2\bin\Debug\net10.0\lesson w2 les2.exe
+C:\Users\Admin\Desktop\lesson w2 les2\bin\Debug\net10.0\lesson w2 les2.deps.json
+C:\Users\Admin\Desktop\lesson w2 les2\bin\Debug\net10.0\lesson w2 les2.runtimeconfig.json
+C:\Users\Admin\Desktop\lesson w2 les2\bin\Debug\net10.0\lesson w2 les2.dll
+C:\Users\Admin\Desktop\lesson w2 les2\bin\Debug\net10.0\lesson w2 les2.pdb
+C:\Users\Admin\Desktop\lesson w2 les2\obj\Debug\net10.0\lesson w2 les2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\lesson w2 les2\obj\Debug\net10.0\lesson w2 les2.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\lesson w2 les2\obj\Debug\net10.0\lesson w2 les2.AssemblyInfo.cs
+C:\Users\Admin\Desktop\lesson w2 les2\obj\Debug\net10.0\lesson w2 les2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\lesson w2 les2\obj\Debug\net10.0\lesson w2 les2.dll
+C:\Users\Admin\Desktop\lesson w2 les2\obj\Debug\net10.0\refint\lesson w2 les2.dll
+C:\Users\Admin\Desktop\lesson w2 les2\obj\Debug\net10.0\lesson w2 les2.pdb
+C:\Users\Admin\Desktop\lesson w2 les2\obj\Debug\net10.0\lesson w2 les2.genruntimeconfig.cache
+C:\Users\Admin\Desktop\lesson w2 les2\obj\Debug\net10.0\ref\lesson w2 les2.dll
